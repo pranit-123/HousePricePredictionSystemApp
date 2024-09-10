@@ -1,0 +1,11 @@
+1,parbhani
+2,latur
+3,solapur
+4,yermala
+5,junnar
+6,chakan
+7,pimpri
+8,satara
+9,kolhapur
+10,sangali
+11,jalna
